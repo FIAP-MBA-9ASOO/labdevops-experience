@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lab-devops-cloud-383422",
+  "private_key_id": "b9a206c92b4a632bde721508b0b6221fe7cf8626",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDOHXowwmJg85MA\nxAMPx336oqLtjdzhGUtsJpVY4y2Jr5/ZSLVS5/vt739ypppdP9tDfIA9iNQ0xGJx\nNEciTkJnXup1eXLgoRjeZSMj2MMRQ8/3DUX0WaizF+i1k0SJwcTGaCT+JP8LQIb0\nLwiE7AOQzPyuoISPGHM0xo1NoiDcek8RzPBgzD8EZluiMaM0CtE1jIGQTnShd8qd\ntnc4jBfshfkUjizxUAZr3I1BYP+JGFcxyJNuk3hT50ecSRq4cDXdriwT5bDFu8nx\ni9LtBSjreuA1MDm4oow+KSr0ikJwXOANcNtZJC08WR03BLAEClltN3fzbSP68SZh\noQHp0C1LAgMBAAECggEAYyGKQyk6Z6a+bP/Y+R3ZWVIfSmGQejLQM5PbAIVCwZXW\nK4rsqpMod6dYhKvcUj0EF9EpXG8SoM5TCl86VyWMimr8GMPwnFjevRenbvYx23vh\n6dBYdM0qdfhp0+qgbCDlowczw4fHooHGZmq4jjV1AY+Vd+d72dbIkflsvIndhCvx\n41TbIiGjUHwUcOTlF+vQU90ZLT1a7KuUWkm7Qb81fxGPaq65rrttbWTWKaR2VQ+F\n2OBT3BOq7o7fGl/KbSANrSKE2j1I1di0TA+vLmGxR7h1m5hAvdKXiQz/lKlYJtef\nYE3XV4WpylBCUOEMkjPpBUa2xFZHO002v5LYLG82AQKBgQDxI28tY2rD96lZN1ld\noxV0PanOM52a1swKyKQ1gw0/Wfn/5rqXR6e4OUSpkDejXUiEXiugEFkojsK6EDSX\nJZvRiUx/jZCWr34fJo3ocQkhlUf0wT5KHu9cvgJgs9rjj+7Hw8rZNO2BdUrNPIkh\nuV/DLlybYM4srA0FKGEZ9+SWmQKBgQDa0XZ26aeb6OCTVdjfc7ZmllCIIozrH5rY\n/quug2FJ5vTazSjLvgSZwaYnqve4OlGN4qMVtDFrCpYEgW7rbZQ9PNvwpPur/pPe\n/mtfMcbAkWBsdaba450uPIqFXbifdb5aXhK2ujMFkprQnnOFCfKeGQq3Dr8ZeNQh\nHql96YslgwKBgQCFnkft06gGnQaG/EeVvleWCNE+BJXxhdKcqx9q04qUryv7pAOC\n7l6+k2U7vEFIUdlsF65+zHBLLAg1B+PMWTelfToZd/1Fskrlwfxib7hKlqi/tBDr\nC4dBUbyJjz/cVxZONW0CvPRahv8DCOdH+6tXwSnpo1O7pz6zu/NKa3WMCQKBgB1u\nlR+Td/7piONoZZ5QoxUTXMui0g+CFcLgJll3xGs7TG3tsHIPIfFIcb/eKCm4dmW+\nOS9fKFJ8fwcmHbQ+7fR6rh6lIlDVEjCpSeno+RHHvA96l7HTcb3ZWMxtebrBDJR9\nGMlJLDmwqXAsD9+yIdcQCTfsHNohPW8i/6s28YdfAoGAVC0zyUzA9FEZQoLTeJJj\n8a/XCXmwui77klg+A6BM/U1XCR9XzMfsm84dVopKHYy9guhagESksmTftycSu80H\nKIEfkkEqrig6PxxR7gEj0rE5ubuuWOjJIcHrWATXWdCi7sh1y8RtwRX5Z7gdI48h\noEL5ArmoZmfrFJsQXPWbOTo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform@lab-devops-cloud-383422.iam.gserviceaccount.com",
+  "client_id": "114800749945743567035",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform%40lab-devops-cloud-383422.iam.gserviceaccount.com"
+}
